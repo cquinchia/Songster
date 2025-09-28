@@ -53,39 +53,7 @@
     "lyrics_url": "https://lyricstranslate.com/en/amante-bandido-bandit-lover.html",
     "tabs_url": "https://www.cifraclub.com/bose-miguel/amante-bandido/",
     "file_url": "",
-    "code": "1007"
-  },
-  {
-    "title": "Este mundo va",
-    "artist": "Miguel Bose",
-    "lyrics_url": "https://www.musica.com/letras.asp?letra=890459",
-    "tabs_url": "https://www.cifraclub.com/bose-miguel/este-mundo-va/",
-    "file_url": "",
-    "code": "01008"
-  },
-  {
-    "title": "Morena Mia",
-    "artist": "Miguel Bose",
-    "lyrics_url": "https://www.musica.com/letras.asp?letra=1061309",
-    "tabs_url": "https://www.cifraclub.com/bose-miguel/morena-mia/",
-    "file_url": "",
-    "code": "01009"
-  },
-  {
-    "title": "Muro",
-    "artist": "Miguel Bose",
-    "lyrics_url": "https://www.musica.com/letras.asp?letra=807479",
-    "tabs_url": "https://www.cifraclub.com/bose-miguel/muro/",
-    "file_url": "",
-    "code": "01010"
-  },
-  {
-    "title": "Si tu no vuelves",
-    "artist": "Miguel Bose",
-    "lyrics_url": "https://www.musica.com/letras.asp?letra=1003801",
-    "tabs_url": "https://www.cifraclub.com/bose-miguel/si-tu-no-vuelves/",
-    "file_url": "",
-    "code": "01011"
+    "code": "01007"
   },
   {
     "title": "Morir de amor",
@@ -93,21 +61,53 @@
     "lyrics_url": "https://www.musica.com/letras.asp?letra=807555",
     "tabs_url": "https://www.cifraclub.com/bose-miguel/morir-de-amor/",
     "file_url": "",
-    "code": "01012"
+    "code": "01008"
   },
   {
     "title": "Nena",
     "artist": "Miguel Bose",
     "lyrics_url": "https://www.musica.com/letras.asp?letra=807570",
-    "tabs_url": "https://www.cifraclub.com/bose-miguel/nena/",
+    "tabs_url": "https://acordes.lacuerda.net/miguel_bose/nena.shtml",
     "file_url": "",
-    "code": "01013"
+    "code": "01009"
   },
   {
     "title": "Sevilla",
     "artist": "Miguel Bose",
     "lyrics_url": "https://www.musica.com/letras.asp?letra=800093",
-    "tabs_url": "https://www.cifraclub.com/bose-miguel/sevilla/",
+    "tabs_url": "https://acordes.lacuerda.net/miguel_bose/sevilla-2.shtml",
+    "file_url": "",
+    "code": "01010"
+  },
+  {
+    "title": "Este mundo va",
+    "artist": "Miguel Bose",
+    "lyrics_url": "https://www.musica.com/letras.asp?letra=890459",
+    "tabs_url": "https://acordes.lacuerda.net/miguel_bose/este_mundo_va-2.shtml",
+    "file_url": "",
+    "code": "01011"
+  },
+  {
+    "title": "Morena mía",
+    "artist": "Miguel Bose",
+    "lyrics_url": "https://www.musica.com/letras.asp?letra=70437",
+    "tabs_url": "https://acordes.lacuerda.net/miguel_bose/morena_mia-4.shtml",
+    "file_url": "",
+    "code": "01012"
+  },
+  {
+    "title": "Muro",
+    "artist": "Miguel Bose",
+    "lyrics_url": "https://www.musica.com/letras.asp?letra=807479",
+    "tabs_url": "https://acordes.lacuerda.net/miguel_bose/muro-2.shtml#1",
+    "file_url": "",
+    "code": "01013"
+  },
+  {
+    "title": "Si tu tu no vuelves",
+    "artist": "Miguel Bose",
+    "lyrics_url": "https://www.musica.com/letras.asp?letra=1024187",
+    "tabs_url": "https://acordes.lacuerda.net/miguel_bose/si_tu_no_vuleves.shtml",
     "file_url": "",
     "code": "01014"
   },
@@ -125,7 +125,7 @@
     "lyrics_url": "https://www.google.com/search?q=letra+Todo+lo+demas+Andres+Calamaro",
     "tabs_url": "https://www.google.com/search?q=acordes+Todo+lo+demas+Andres+Calamaro",
     "file_url": "",
-    "code": "02028"
+    "code": "02002"
   },
   {
     "title": "Victoria y soledad",
@@ -589,7 +589,7 @@
     "lyrics_url": "https://www.musica.com/letras.asp?letra=23296",
     "tabs_url": "https://www.cifraclub.com/cafe-tacuba/como-te-extrano-mi-amor/",
     "file_url": "",
-    "code": "02061"
+    "code": "02060"
   },
   {
     "title": "Como te extraño",
@@ -1374,5 +1374,21 @@
     "tabs_url": "https://www.cifraclub.com/andres-calamaro/el-cantante/",
     "file_url": "",
     "code": "05003"
+  },
+   {
+    "title": "Nocturno Op9 no1",
+    "artist": "Frederic Chopin",
+    "lyrics_url": "https://www.youtube.com/watch?v=t-JD2bnNQvY",
+    "tabs_url": "https://www.youtube.com/watch?v=2bvg232HOn8",
+    "file_url": "",
+    "code": "07001"
+  },
+  {
+    "title": "Nocturno Op9 no2",
+    "artist": "Frederic Chopin",
+    "lyrics_url": "https://www.youtube.com/results?search_query=nocturne+op9+no2",
+    "tabs_url": "https://www.youtube.com/watch?v=9E6b3swbnWg",
+    "file_url": "",
+    "code": "07002"
   }
 ]
