@@ -40,5 +40,11 @@
     "artist": "Fabulosos Cadillacs",
     "code": "00007",
     "created_at": "2025-10-02T21:39:11.828Z"
+  },
+  {
+    "title": "La guitarra",
+    "artist": "Auténticos decadentes",
+    "code": "00008",
+    "created_at": "2025-10-02T22:31:46.952Z"
   }
 ]
